@@ -69,11 +69,11 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
  ; border: 1px solid black\;"><br><div style="padding: 10px\;">ncsc-inf</d
  iv></td></tr></table></div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:PAM Maintenance
-UID:8c41fa00-3557-4a40-afb2-5b30db5ce34c
+UID:7a82d5bc-52c3-4e6d-82cc-3969ee3172ef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
@@ -125,11 +125,11 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
  al-align:top\; border: 1px solid black\;"><br><div style="padding: 10px\;
  ">ncop-inf\, obad-inf</div></td></tr></table></div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:Citrix NetScaler SDX Maintenance
-UID:65d4eca7-f7b4-4786-b937-a181d7d4a744
+UID:3707b17e-54fe-43d2-b808-6ebb5ff040c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
@@ -176,11 +176,11 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
  <div style="padding: 10px\;">ncop-inf\, obad-inf</div></td></tr></table><
  /div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:Jenkins Maintenance
-UID:a6b509da-e627-4166-8196-a49c97b96f8a
+UID:1e0f87d4-1647-47a2-b4c6-a1fe7fe16ada
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
@@ -246,11 +246,11 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
   1px solid black\;"><br><div style="padding: 10px\;">ncsc-inf</div></td><
  /tr></table></div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:Orion Maintenance
-UID:d730cc37-94dd-424b-b4e2-e6ba8c64f095
+UID:2c018bf3-197f-479f-9122-559031f86253
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
@@ -299,11 +299,11 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
  <br><div style="padding: 10px\;">ncop-inf\, obad-inf</div></td></tr></tab
  le></div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:CommVault Backup Maintenance
-UID:d34b1195-36e5-4145-b0a6-a5a306740c15
+UID:0340b69a-74f4-406d-a083-26bf4d3b476d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
@@ -369,24 +369,23 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
  al-align:top\; border: 1px solid black\;"><br><div style="padding: 10px\;
  ">ncsc-inf</div></td></tr></table></div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:Customer Firewalls Maintenance
-UID:e08d11a6-9af1-45d4-bf36-262035080e9d
+UID:f251171a-80cc-4904-862b-ce5b2130c9da
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
- rvice Window on PAM. <br><br><strong>Date Of Execution</strong><br>Monday
- \, May 6th\, 22:00 - 02:00 CEST.<br><br><strong>Estimated Downtime</stron
- g><br>No downtime is expected<br><br><strong>Who will be affected by this
-  service window?</strong><br>No customers are affected<br><br>
+ rvice Window on {productName}. \n\n{description}\n\n{startTime} - {endTim
+ e}.\n \n{downtime}\n \n{performedBy}\n\n{caseID}\n \n{furtherInfo} \n\n {
+ escalationManager}\n\n{additionalInfo}\n\n{affected}
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:PAM Maintenance
-UID:1a20f340-b78b-4aba-880f-a1d9314cfa62
+UID:2b1c5cd5-6184-4062-ba94-c64600608bce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
@@ -452,53 +451,47 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
  px solid black\;"><br><div style="padding: 10px\;">ncsc-inf</div></td></t
  r></table></div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:PAM Maintenance
-UID:c1d494cc-32e4-4f7f-812f-24e31dc92979
+UID:d6aa9acd-cf2c-4fc4-a77b-320271573e1b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
- rvice Window on Customer Firewalls. <br><br><strong>Date Of Execution</st
- rong><br>Monday\, May 6th\, 22:00 - 02:00 CEST.<br><br><strong>Estimated 
- Downtime</strong><br>No downtime is expected<br><br><strong>Who will be a
- ffected by this service window?</strong><br>No customers are affected<br>
- <br>
+ rvice Window on {productName}. \n\n{description}\n\n{startTime} - {endTim
+ e}.\n \n{downtime}\n \n{performedBy}\n\n{caseID}\n \n{furtherInfo} \n\n {
+ escalationManager}\n\n{additionalInfo}\n\n{affected}
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:Customer Firewalls Maintenance
-UID:320dc496-581f-4644-85c9-098280b16d26
+UID:339e726e-8ad9-40ed-9d6b-5b0e203d88ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
- rvice Window on PAM. <br><br><strong>Date Of Execution</strong><br>Monday
- \, May 6th\, 22:00 - 02:00 CEST.<br><br><strong>Estimated Downtime</stron
- g><br>No downtime is expected<br><br><strong>Who will be affected by this
-  service window?</strong><br>No customers are affected<br><br>
+ rvice Window on {productName}. \n\n{description}\n\n{startTime} - {endTim
+ e}.\n \n{downtime}\n \n{performedBy}\n\n{caseID}\n \n{furtherInfo} \n\n {
+ escalationManager}\n\n{additionalInfo}\n\n{affected}
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:PAM Maintenance
-UID:b380bc67-6f1a-4481-b762-410a44da5a36
+UID:fa0d4dce-d4a4-4d08-af3a-e464b0af3a1e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
- rvice Window on PAM. <br><br><strong>Date Of Execution</strong><br>Monday
- \, May 6th\, 22:00 - 02:00 CEST.<br><br><strong>Estimated Downtime</stron
- g><br>No downtime is expected<br><br><strong>Performed By</strong><br>asd
- <br><br><strong>Case ID</strong><br>asd<br><br><strong>Escalation Manager
- </strong><br>asd<br><br><strong>Who will be affected by this service wind
- ow?</strong><br>No customers are affected<br><br>
+ rvice Window on {productName}. \n\n{description}\n\n{startTime} - {endTim
+ e}.\n \n{downtime}\n \n{performedBy}\n\n{caseID}\n \n{furtherInfo} \n\n {
+ escalationManager}\n\n{additionalInfo}\n\n{affected}
 DTEND;TZID=Europe/Copenhagen:20240506T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:PAM Maintenance
-UID:c6dba2a5-55a4-4bab-98c8-bc436a528edd
+UID:2d673cf0-d4c1-4fc5-b892-ebea45a359e3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an emergency Servic
@@ -564,11 +557,11 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an emergency Servic
  align:top\; border: 1px solid black\;"><br><div style="padding: 10px\;">n
  csc-inf</div></td></tr></table></div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240507T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240507T220000
 SEQUENCE:0
 SUMMARY:Customer Firewalls Maintenance
-UID:0c8ab7c6-636a-46ca-bbe7-f1dbcdd0e687
+UID:f9e7adc5-6909-44a0-b61a-28b6c07cb768
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
@@ -634,11 +627,11 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
   1px solid black\;"><br><div style="padding: 10px\;">ncsc-inf</div></td><
  /tr></table></div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240507T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240507T220000
 SEQUENCE:0
 SUMMARY:PAM Maintenance
-UID:0ac3ac56-d64f-455d-827d-b97ef62ad68d
+UID:bd6a392a-e57b-48a6-8220-39f0aa4def72
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
@@ -704,11 +697,11 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
  px solid black\;"><br><div style="padding: 10px\;">ncsc-inf</div></td></t
  r></table></div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240507T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240507T220000
 SEQUENCE:0
 SUMMARY:PAM Maintenance
-UID:93f649b4-5a2d-45d6-aea8-2e50cf3cb0e8
+UID:437b7baa-0022-4496-a851-dc8a12972c1f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
@@ -774,10 +767,10 @@ DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
  : 1px solid black\;"><br><div style="padding: 10px\;">ncsc-inf</div></td>
  </tr></table></div><br><br>
 DTEND;TZID=Europe/Copenhagen:20240508T223000
-DTSTAMP:20240426T064055Z
+DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240508T220000
 SEQUENCE:0
 SUMMARY:PAM Maintenance
-UID:d8f2066b-51d1-4dd9-a92a-56e498d7d022
+UID:21bd85e9-8512-4a36-9682-8d3bf23579a4
 END:VEVENT
 END:VCALENDAR
