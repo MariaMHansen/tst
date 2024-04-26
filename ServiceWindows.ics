@@ -115,6 +115,7 @@ DTSTART;TZID=Europe/Copenhagen:20240506T220000
 SEQUENCE:0
 SUMMARY:Citrix NetScaler SDX Maintenance
 UID:2a12d953-ab99-4a83-9241-206f970a19b7
+DESCRIPTION:Additional text for Citrix NetScaler SDX Maintenance event.
 END:VEVENT
 BEGIN:VEVENT
 DTEND;TZID=Europe/Copenhagen:20240506T223000
