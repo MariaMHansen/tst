@@ -6,23 +6,13 @@ TZID:Europe/Copenhagen
 X-LIC-LOCATION:Europe/Copenhagen
 END:VTIMEZONE
 BEGIN:VEVENT
-DESCRIPTION:This is an emergency maintenance for fixing some issues with J
- enkins
-DTEND;TZID=Europe/Copenhagen:20240524T223000
-DTSTAMP:20240426T091114Z
-DTSTART;TZID=Europe/Copenhagen:20240524T220000
-SEQUENCE:0
-SUMMARY:Jenkins Maintenance
-UID:c9f8487c-8748-4f75-9c0f-5279ffb255a5
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:This is an extraordinary maintenance on AD Portal because of s
  ome login issues.
 DTEND;TZID=Europe/Copenhagen:20240510T223000
-DTSTAMP:20240426T091114Z
+DTSTAMP:20240426T091520Z
 DTSTART;TZID=Europe/Copenhagen:20240510T220000
 SEQUENCE:0
 SUMMARY:Portals Maintenance
-UID:e2ac79bc-9830-41f7-aea4-e401fc6a3b3a
+UID:3e23b997-7dd1-4c6b-81e7-892a7e73bbf3
 END:VEVENT
 END:VCALENDAR
