@@ -15,54 +15,7 @@ SUMMARY:PAM Maintenance
 UID:7a82d5bc-52c3-4e6d-82cc-3969ee3172ef
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Netcompany Infrastructure hereby calls for an extraordinary Se
- rvice Window on Citrix NetScaler SDX. <br><br><strong>Date Of Execution</
- strong><br>Monday\, May 6th\, 22:00 - 02:00 CEST.<br><br><strong>Estimate
- d Downtime</strong><br>Sporadic downtime is expected<br><br><strong>Perfo
- rmed By</strong><br>MMH<br><br><strong>Case ID</strong><br>NCINFRA - 123<
- br><br><strong>Escalation Manager</strong><br>ABC<br><br><strong>Who will
-  be affected by this service window?</strong><br><div style="margin-top: 
- 20px\;"><table style="border-collapse: collapse\; border: 1px solid black
- \;"><tr style="padding: 10px\;"><td style="vertical-align:top\; text-alig
- n:left\; border: 1px solid black\;"><br><div style="padding: 10px\;">Team
-  1</div><br></td><td style="vertical-align:top\; border: 1px solid black\
- ;"><br><div style="padding: 10px\;">aojh-inf\, dfk-io\, fhkm-inf\, fhkm-i
- nf\, geko-shp\, komb-bbr\, komb-dar\, komb-dub\, komb-fli\, komb-sap\, kt
- c-crm\, mblr-inf\, tref-cfrm</div></td></tr><tr style="padding: 10px\;"><
- td style="vertical-align:top\; text-align:left\; border: 1px solid black\
- ;"><br><div style="padding: 10px\;">Team 2</div><br></td><td style="verti
- cal-align:top\; border: 1px solid black\;"><br><div style="padding: 10px\
- ;">bupl-inf\, dame-crm\, dlfa-inf\, dmet-inf\, hkak-inf\, hkak-inf\, lder
- -inf\, ldf-pe\, ncby-dwh\, nnf-inf\, sds-crm</div></td></tr><tr style="pa
- dding: 10px\;"><td style="vertical-align:top\; text-align:left\; border: 
- 1px solid black\;"><br><div style="padding: 10px\;">Team 3</div><br></td>
- <td style="vertical-align:top\; border: 1px solid black\;"><br><div style
- ="padding: 10px\;">nced-inf</div></td></tr><tr style="padding: 10px\;"><t
- d style="vertical-align:top\; text-align:left\; border: 1px solid black\;
- "><br><div style="padding: 10px\;">Team 4</div><br></td><td style="vertic
- al-align:top\; border: 1px solid black\;"><br><div style="padding: 10px\;
- ">atp-aes\, atp-bos\, atp-fy\, atp-pe</div></td></tr><tr style="padding: 
- 10px\;"><td style="vertical-align:top\; text-align:left\; border: 1px sol
- id black\;"><br><div style="padding: 10px\;">Team 5</div><br></td><td sty
- le="vertical-align:top\; border: 1px solid black\;"><br><div style="paddi
- ng: 10px\;">dig-dp\, netc-dpp\, pol-dkp\, pol-dkt</div></td></tr><tr styl
- e="padding: 10px\;"><td style="vertical-align:top\; text-align:left\; bor
- der: 1px solid black\;"><br><div style="padding: 10px\;">Team 7</div><br>
- </td><td style="vertical-align:top\; border: 1px solid black\;"><br><div 
- style="padding: 10px\;">komb-ky\, komb-spk\, komb-val\, nc-fdn</div></td>
- </tr><tr style="padding: 10px\;"><td style="vertical-align:top\; text-ali
- gn:left\; border: 1px solid black\;"><br><div style="padding: 10px\;">Tea
- m 11</div><br></td><td style="vertical-align:top\; border: 1px solid blac
- k\;"><br><div style="padding: 10px\;">dss-etl\, ncop-doc\, skat-inf\, skm
- i-ici\, ufst-dms</div></td></tr><tr style="padding: 10px\;"><td style="ve
- rtical-align:top\; text-align:left\; border: 1px solid black\;"><br><div 
- style="padding: 10px\;">Team 12</div><br></td><td style="vertical-align:t
- op\; border: 1px solid black\;"><br><div style="padding: 10px\;">nc-inf\,
-  ncop-inf\, netc-inf</div></td></tr><tr style="padding: 10px\;"><td style
- ="vertical-align:top\; text-align:left\; border: 1px solid black\;"><br><
- div style="padding: 10px\;">Infrastruktur</div><br></td><td style="vertic
- al-align:top\; border: 1px solid black\;"><br><div style="padding: 10px\;
- ">ncop-inf\, obad-inf</div></td></tr></table></div><br><br>
+DESCRIPTION:<html><body><p>This is a <b>bold</b> and <i>italic</i> text.</p></body></html>
 DTEND;TZID=Europe/Copenhagen:20240506T223000
 DTSTAMP:20240426T064906Z
 DTSTART;TZID=Europe/Copenhagen:20240506T220000
